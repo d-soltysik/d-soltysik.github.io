@@ -1,5 +1,5 @@
 # CV
-##Key Skills
+## Key Skills
 First note key skills
-##Experience
+## Experience
 _Now talk about jobs_

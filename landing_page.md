@@ -2,4 +2,4 @@
 
 This is the website of Dom
 
-[CV](/CV)
+[CV](/pages/CV.md)
