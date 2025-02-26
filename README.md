@@ -1,2 +1,2 @@
 # d-soltysik.github.io
-About me
+About me - README file
